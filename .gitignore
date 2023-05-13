@@ -1,2 +1,3 @@
 # .gitignore
-config.py,practice.ipynb
+config.py
+practice.ipynb
